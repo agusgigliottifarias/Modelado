@@ -1,8 +1,7 @@
 # Modelado
 
 
-# 🛠️ Blender & Me: Una relación tóxica (pero necesaria)
-
+# 🛠️ Blender:
 Como estoy estudiando para Analista, pensé que el 3D iba a ser algo lógico y ordenado. Spoiler: Me equivoqué. Este repositorio es el cementerio oficial de mis intentos por dominar el eje Z sin romper el continuo espacio-tiempo.
 
 > "No es un modelo con mala topología, es un asset extremadamente optimizado para computadoras de 1995."
